@@ -1,0 +1,5 @@
+provider_id,npi,specialty
+P001,1234567890,Internal Medicine
+P002,2345678901,Family Practice
+P003,,Cardiology
+P004,4567890123,Endocrinology
