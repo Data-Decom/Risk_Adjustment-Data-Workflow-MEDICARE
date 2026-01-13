@@ -1,0 +1,5 @@
+step_name,run_datetime,record_count,comments
+File Receipt,2024-01-10 09:15,7,Raw diagnosis file received
+Validation Completed,2024-01-10 09:20,3,Invalid records identified
+Clean Dataset Created,2024-01-10 09:25,4,Validated records retained
+Submission File Created,2024-01-10 09:30,4,Text file generated
