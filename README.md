@@ -36,3 +36,25 @@ Submission file creation
 #### 5.0 Submission File Creation
 Formatted validated data into pipe-delimited flat text files Applied standardized date formatting and field ordering Generated submission-ready output suitable for external transmission
 
+#### Output 
+Submission-ready text file formatted according to defined specifications Validation error datasets Reconciliation summaries Audit log documenting the full data lifecycle
+
+#### Project Structure
+Risk_Adjustment_SAS_Project/
+├── raw_files/
+├── sas_programs/
+├── output/
+├── audit/
+└── README.md
+
+#### Key Skills Demonstrated
+
+SAS-based data retrieval, validation, and formatting Healthcare informatics workflows Compliance-focused data processing Attention to detail and quality assurance Audit readiness and documentation CMS-style submission preparation
+
+#### Disclaimer
+All data used in this project is synthetic and anonymized. No real patient or provider information is included. This project is intended solely for educational and portfolio demonstration purposes.
+
+#### Contact
+For questions or professional inquiries:
+
+linkedin: 
