@@ -42,8 +42,6 @@ Submission-ready text file formatted according to defined specifications Validat
 #### Project Structure 
 Risk_Adjustment_Data-Workflow-MEDICARE
 
-SAS_Project/
-
 ├── raw_files/
 
 ├── sas_programs/
