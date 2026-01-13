@@ -39,13 +39,21 @@ Formatted validated data into pipe-delimited flat text files Applied standardize
 #### Output 
 Submission-ready text file formatted according to defined specifications Validation error datasets Reconciliation summaries Audit log documenting the full data lifecycle
 
-#### Project Structure
-Risk_Adjustment_SAS_Project/
+#### Project Structure 
+Risk_Adjustment_Data-Workflow-MEDICARE
+
+SAS_Project/
+
 ├── raw_files/
+
 ├── sas_programs/
+
 ├── output/
+
 ├── audit/
+
 └── README.md
+
 
 #### Key Skills Demonstrated
 
